@@ -1,0 +1,20 @@
+{
+  "name": "DemoServer",
+  "version": "0.1.0",
+  "description": "demo server for R&D",
+  "main": "server.js",
+  "author": {
+    "name": "Cho Myeong Geun",
+    "email": "narlamy@nm-n2.com"
+  },
+  "bin" : {
+    "DemoServer" : "server.js"
+  },
+  "dependencies": {
+    "async": "^1.5.2",
+    "body-parser": "^1.15.0",
+    "commander": "^2.9.0",
+    "express": "^4.13.4",
+    "uuid": "^2.0.1"
+  }
+}
