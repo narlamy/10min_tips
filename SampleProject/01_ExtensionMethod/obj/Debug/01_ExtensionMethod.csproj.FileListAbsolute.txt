@@ -4,3 +4,9 @@ D:\Projects\CodingTips\01_ExtensionMethod\bin\Debug\01_ExtensionMethod.pdb
 D:\Projects\CodingTips\01_ExtensionMethod\obj\Debug\01_ExtensionMethod.csprojResolveAssemblyReference.cache
 D:\Projects\CodingTips\01_ExtensionMethod\obj\Debug\01_ExtensionMethod.exe
 D:\Projects\CodingTips\01_ExtensionMethod\obj\Debug\01_ExtensionMethod.pdb
+D:\Projects\10min_tips\SampleProject\01_ExtensionMethod\bin\Debug\01_ExtensionMethod.exe.config
+D:\Projects\10min_tips\SampleProject\01_ExtensionMethod\bin\Debug\01_ExtensionMethod.exe
+D:\Projects\10min_tips\SampleProject\01_ExtensionMethod\bin\Debug\01_ExtensionMethod.pdb
+D:\Projects\10min_tips\SampleProject\01_ExtensionMethod\obj\Debug\01_ExtensionMethod.csprojResolveAssemblyReference.cache
+D:\Projects\10min_tips\SampleProject\01_ExtensionMethod\obj\Debug\01_ExtensionMethod.exe
+D:\Projects\10min_tips\SampleProject\01_ExtensionMethod\obj\Debug\01_ExtensionMethod.pdb

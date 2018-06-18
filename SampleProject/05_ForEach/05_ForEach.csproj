@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B97A66E1-149E-4BB0-B6B8-8BFF40027F58}</ProjectGuid>
+    <ProjectGuid>{F2F046DC-9F38-4AD5-9DE1-B6F97BB23BA8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_03_WebClient</RootNamespace>
-    <AssemblyName>03_WebClient</AssemblyName>
+    <RootNamespace>_05_ForEach</RootNamespace>
+    <AssemblyName>05_ForEach</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
